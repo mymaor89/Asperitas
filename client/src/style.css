@@ -13,6 +13,9 @@ html {
 body {
   min-height: 100%;
   padding-bottom: 48px;
-  font-family: 'IBM Plex Sans', 'Roboto', 'Helvetica Neue', 'Arial', sans-serif;
+  /* font-family: 'Product Sans', 'IBM Plex Sans', 'Roboto', 'Helvetica Neue',
+    'Arial', sans-serif; */
+  font-weight: 500;
   -webkit-font-smoothing: antialiased;
+  font-family: 'Open Sans', sans-serif;
 }
